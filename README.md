@@ -5,7 +5,7 @@ Single LSTM.ipynb is the file used to run the code.
 
 The dataset folder contains the .mid data used in the Single LSTM.ipynb code
 
-The LSTM_music1.mid is the music file which is generated(output).
+The LSTM_music1.mid, LSTM_music2.mid, LSTM_music3.mid,LSTM_music4.mid, is the music file which is generated(output).
 
 
 
