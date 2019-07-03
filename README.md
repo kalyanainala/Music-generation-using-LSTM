@@ -1,5 +1,5 @@
 # Music-generation-using-LSTM
-SML project by Kalyan Ainala and Aaquila Mariajohn
+SML project by Kalyan Ainala and Aaquila Mariajohn.
 
 Single LSTM.ipynb is the file used to run the code.
 
